@@ -1,0 +1,19 @@
+{
+  "name": "tocropviewcontroller",
+  "version": "1.0.0",
+  "description": "<p align=\"center\"> <img src=\"https://github.com/TimOliver/TOCropViewController/blob/master/screenshot.jpg\" width=\"890\" style=\"margin:0 auto\" /> </p>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FreiraumIO/TOCropViewController.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FreiraumIO/TOCropViewController/issues"
+  },
+  "homepage": "https://github.com/FreiraumIO/TOCropViewController#readme"
+}
